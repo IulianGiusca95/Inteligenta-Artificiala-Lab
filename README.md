@@ -5,27 +5,27 @@ __Rezolvarea testelor de laborator, prof. Irina Ciocan:__
 - Primele 4 exercitii _(test5678)_
 
 __Algoritmi si probleme cunoscute:__
-- Algoritmul Alphabeta (alphabeta)
-- Algoritmul A* (astar)
-- Parcurgeri Breadthfirst (breadth_extinderi, breadth_nr_total_extinderi, breadthfirst_afisari, breadthfirst_limite_cost, breadthfirst_prima_sol, breadthfirst_sol_lista)
-- Parcurgeri Depthfirst (depth_extinderi_it, depth_nr_total_extinderi_it, depthfirst_iterativ_afisari, depthfirst_limite_cost_it, df_iterativ)
-- Problema blocurilor, abordari BF si DF (pb_bloc, pb_bloc_nr)
-- Problema Canibalilor (canibali, can_mis, can_mis_bdegrad)
-- Sirul lui Fibonacci, al n-lea termen (termenfib)
+- Algoritmul Alphabeta _(alphabeta)_
+- Algoritmul A* _(astar)_
+- Parcurgeri Breadthfirst _(breadth_extinderi, breadth_nr_total_extinderi, breadthfirst_afisari, breadthfirst_limite_cost, breadthfirst_prima_sol, breadthfirst_sol_lista)_
+- Parcurgeri Depthfirst _(depth_extinderi_it, depth_nr_total_extinderi_it, depthfirst_iterativ_afisari, depthfirst_limite_cost_it, df_iterativ)_
+- Problema blocurilor, abordari BF si DF _(pb_bloc, pb_bloc_nr)_
+- Problema Canibalilor _(canibali, can_mis, can_mis_bdegrad)_
+- Sirul lui Fibonacci, al n-lea termen _(termenfib)_
 
 
 __Probleme cu liste:__
-- Adaugari la inceputul listei (ad_list_incep)
-- Adaugari la sfarsitul listei (ad_list_sf)
-- Ex. liste (ex_liste_in_liste_descomp, ex_liste_in_liste_in_liste, ex_nr_liste_in_liste_in_liste, list_ex_mat_posib, list_separa_liste, lista_balanta, lista_diviz, lista_multipl, lista3, liste_copii, liste_egale, ult_elem_list)
-- Stergerea unui element dintr-o lista (sterg_el_list)
-- Stergerea ultimului element dintr-o lista (sterg_el_sf)
-- Inserarea elementelor in lista (insert_list)
-- Interclasarea a doua liste (interclas_list)
-- Obtinerea numarului de elemente din lista (n_el_list)
-- Determinarea celei mai lungi secvente de elemente identice dintr-o lista (subl_elem_id)
-- Cautarea unei subliste intr-o lista (gaseste_fragment)
-- Suma elementelor dintr-o lista (sum_el_list)
+- Adaugari la inceputul listei _(ad_list_incep)_
+- Adaugari la sfarsitul listei _(ad_list_sf)_
+- Ex. liste _(ex_liste_in_liste_descomp, ex_liste_in_liste_in_liste, ex_nr_liste_in_liste_in_liste, list_ex_mat_posib, list_separa_liste, lista_balanta, lista_diviz, lista_multipl, lista3, liste_copii, liste_egale, ult_elem_list)_
+- Stergerea unui element dintr-o lista _(sterg_el_list)_
+- Stergerea ultimului element dintr-o lista _(sterg_el_sf)_
+- Inserarea elementelor in lista _(insert_list)_
+- Interclasarea a doua liste _(interclas_list)_
+- Obtinerea numarului de elemente din lista _(n_el_list)_
+- Determinarea celei mai lungi secvente de elemente identice dintr-o lista _(subl_elem_id)_
+- Cautarea unei subliste intr-o lista _(gaseste_fragment)_
+- Suma elementelor dintr-o lista _(sum_el_list)_
 
 __Structuri de date (arbori, matrice):__
 - Parcurgerea arborilor in post/preordine (arb_apostord, arb_apreord)
