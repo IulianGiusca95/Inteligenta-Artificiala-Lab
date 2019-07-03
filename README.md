@@ -10,7 +10,7 @@ Algoritmi si alte fragmente de cod scrise in limbajul Prolog ce rezolva diferite
 - Afisare formatata (afisare_formatata)
 - Parcurgerea arborilor in post/preordine (arb_apostord, arb_apreord)
 - Parcurgerea arborilor binari in in/post/preordine (arb_bin_inord, arb_bin_postord, arb_bin_preord)
-- Ex. cu Bagof/Setof/Findall (bagof_setof_findall_laborator)
+- Ex. cu Bagof/Setof/Findall (bagof_setof_findall_laborator, eficienta_bagof)
 - Parcurgeri Breadthfirst (breadth_extinderi, breadth_nr_total_extinderi, breadthfirst_afisari, breadthfirst_limite_cost, breadthfirst_prima_sol, breadthfirst_sol_lista)
 - Problema Canibalilor (canibali, can_mis, can_mis_bdegrad)
 - Citiri/Scrieri cu fisiere (cit_scr_fis_redir, citeste_sir_fisier, citire_fisier, citire_graf_fisier)
@@ -20,4 +20,7 @@ Algoritmi si alte fragmente de cod scrise in limbajul Prolog ce rezolva diferite
 - Sintaxa Operatori (comparatii)
 - Conversii Atom - Numar (conversie_atom_numar)
 - Folosirea si accesarea informatiilor din baza de cunostinte (copiiii)
-- 
+- Verifica daca o data calendaristica este valida (data_valida)
+- Parcurgeri Depthfirst (depth_extinderi_it, depth_nr_total_extinderi_it, depthfirst_iterativ_afisari, depthfirst_limite_cost_it, df_iterativ)
+- Cut (diferenta_once_cut)
+- Probleme cu siruri de numere _elem_sir_
