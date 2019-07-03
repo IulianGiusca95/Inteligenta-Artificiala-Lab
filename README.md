@@ -1,6 +1,6 @@
 # Laborator - IA
 
-__Rezolvarea testelor de laborator, prof. Irina Ciocan
+__Rezolvarea testelor de laborator, prof. Irina Ciocan__
 - Fisier: ex1.pl
 - Primele 4 exercitii (test5678)
 
