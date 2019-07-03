@@ -1,5 +1,8 @@
 # Laborator - IA
 
+Rezolvarea testului de laborator, prof. Irina Ciocan
+- Fisier: ex1.pl
+
 Algoritmi si alte fragmente de cod scrise in limbajul Prolog ce rezolva diferite probleme de prelucrare a textelor:
 - Algoritmul Alphabeta (alphabeta)
 - Algoritmul A* (astar)
@@ -13,15 +16,25 @@ Algoritmi si alte fragmente de cod scrise in limbajul Prolog ce rezolva diferite
 - Ex. cu Bagof/Setof/Findall (bagof_setof_findall_laborator, eficienta_bagof)
 - Parcurgeri Breadthfirst (breadth_extinderi, breadth_nr_total_extinderi, breadthfirst_afisari, breadthfirst_limite_cost, breadthfirst_prima_sol, breadthfirst_sol_lista)
 - Problema Canibalilor (canibali, can_mis, can_mis_bdegrad)
-- Citiri/Scrieri cu fisiere (cit_scr_fis_redir, citeste_sir_fisier, citire_fisier, citire_graf_fisier)
+- Citiri/Scrieri cu fisiere (cit_scr_fis_redir, citeste_sir_fisier, citire_fisier, citire_graf_fisier, fisiere)
 - CMMDC (cmmdc)
 - CMMMC (cmmmc)
 - Verifica daca 3 puncte din plan sunt coliniare (coliniare)
-- Sintaxa Operatori (comparatii)
+- Sintaxa Operatori (comparatii, este_media_aritmetica, ex_ec_ab, ex8lab3, ex9lab3)
 - Conversii Atom - Numar (conversie_atom_numar)
-- Folosirea si accesarea informatiilor din baza de cunostinte (copiiii)
+- Folosirea si accesarea informatiilor din baza de cunostinte (copiiii, fata_baiat, felina)
 - Verifica daca o data calendaristica este valida (data_valida)
 - Parcurgeri Depthfirst (depth_extinderi_it, depth_nr_total_extinderi_it, depthfirst_iterativ_afisari, depthfirst_limite_cost_it, df_iterativ)
 - Cut (diferenta_once_cut)
 - Probleme cu siruri de numere (elem_sir_)
-- 
+- Ex. liste (ex_liste_in_liste_descomp, ex_liste_in_liste_in_liste, ex_nr_liste_in_liste_in_liste)
+- Sintaxa Repeat (exlab3)
+- Factorial (factorial)
+- For (for)
+- Cautarea unei subliste intr-o lista (gaseste_fragment)
+- Generarea numerelor dintr-un interval (gen_interv)
+- Grafuri (graf_breadthfirst, graf_depthfirst_it)
+- If Else (if_else_angajat)
+- Inserarea elementelor in lista (insert_list)
+- Interclasarea a doua liste (interclas_list)
+
