@@ -7,5 +7,5 @@ Algoritmi si alte fragmente de cod scrise in limbajul Prolog ce rezolva diferite
 - Adaugari la sfarsit (ad_list_sf)
 - Afisarea bazei de cunostinte (afis_bc)
 - Afisare formatata (afisare_formatata)
-- Parcurgerea arborilor in postordine/preordine (arb_apostord, arb_apreord)
-- Parcurgerea arborilor binari in inordine (arb_bin_inord, arb_bin_postord, arb_bin_preord)
+- Parcurgerea arborilor in post/preordine (arb_apostord, arb_apreord)
+- Parcurgerea arborilor binari in in/post/preordine (arb_bin_inord, arb_bin_postord, arb_bin_preord)
