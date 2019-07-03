@@ -28,50 +28,50 @@ __Probleme cu liste:__
 - Suma elementelor dintr-o lista _(sum_el_list)_
 
 __Structuri de date (arbori, matrice):__
-- Parcurgerea arborilor in post/preordine (arb_apostord, arb_apreord)
-- Parcurgerea arborilor binari in in/post/preordine (arb_bin_inord, arb_bin_postord, arb_bin_preord)
-- Grafuri (graf_breadthfirst, graf_depthfirst_it, muchie_gr_neorientat)
-- Accesarea elementelor din matrice (matrice, parcg_mat_alternat_oriz, parcg_mat_alternat_vert)
+- Parcurgerea arborilor in post/preordine _(arb_apostord, arb_apreord)_
+- Parcurgerea arborilor binari in in/post/preordine _(arb_bin_inord, arb_bin_postord, arb_bin_preord)_
+- Grafuri _(graf_breadthfirst, graf_depthfirst_it, muchie_gr_neorientat)_
+- Accesarea elementelor din matrice _(matrice, parcg_mat_alternat_oriz, parcg_mat_alternat_vert)_
 
 __Sintaxa si Operatori in Prolog:__
-- Afisarea bazei de cunostinte (afis_bc)
-- Afisare formatata (afisare_formatata)
-- Ex. cu Bagof/Setof/Findall (bagof_setof_findall_laborator, eficienta_bagof)
-- Sintaxa Operatori (comparatii, este_media_aritmetica, ex_ec_ab, ex8lab3, ex9lab3, nr_complexe, op_mmare_dublu, operator_is_sum_prod, operatori_custom)
-- Conversii Atom - Numar (conversie_atom_numar)
-- Folosirea si accesarea informatiilor din baza de cunostinte (copiiii, fata_baiat, felina, membri_echipe)
-- Cut (diferenta_once_cut)
-- Sintaxa Repeat (exlab3, read_recursiv, repeat_exemplu_rau, repeat_exemplu_semi)
-- For (for)
-- If Else (if_else_angajat)
-- Predicat dinamic (lg_lista)
-- Operator punct punct (op_egal_pct_pct)
-- Unificare is vs. egal (unificare_is, unificare_egal)
-- Sintaxa variabila anonima (variabila_anonima)
-- Citiri/Scrieri cu fisiere (cit_scr_fis_redir, citeste_sir_fisier, citire_fisier, citire_graf_fisier, fisiere)
-- Creare si scrierea unui fisier (scriere_Fisier)
-- Editarea unui fisier (scriere_in_fisier)
-- Folosirea librariilor (slep_nr_inversa)
+- Afisarea bazei de cunostinte _(afis_bc)_
+- Afisare formatata _(afisare_formatata)_
+- Ex. cu Bagof/Setof/Findall _(bagof_setof_findall_laborator, eficienta_bagof)_
+- Sintaxa Operatori _(comparatii, este_media_aritmetica, ex_ec_ab, ex8lab3, ex9lab3, nr_complexe, op_mmare_dublu, operator_is_sum_prod, operatori_custom)_
+- Conversii Atom - Numar _(conversie_atom_numar)_
+- Folosirea si accesarea informatiilor din baza de cunostinte _(copiiii, fata_baiat, felina, membri_echipe)_
+- Cut _(diferenta_once_cut)_
+- Sintaxa Repeat _(exlab3, read_recursiv, repeat_exemplu_rau, repeat_exemplu_semi)_
+- For _(for)_
+- If Else _(if_else_angajat)_
+- Predicat dinamic _(lg_lista)_
+- Operator punct punct _(op_egal_pct_pct)_
+- Unificare is vs. egal _(unificare_is, unificare_egal)_
+- Sintaxa variabila anonima _(variabila_anonima)_
+- Citiri/Scrieri cu fisiere _(cit_scr_fis_redir, citeste_sir_fisier, citire_fisier, citire_graf_fisier, fisiere)_
+- Creare si scrierea unui fisier _(scriere_Fisier)_
+- Editarea unui fisier _(scriere_in_fisier)_
+- Folosirea librariilor _(slep_nr_inversa)_
 
 __Diverse:__
-- Generarea abrevierilor dintr-o lista de cuvinte _(abreviere_atom)
-- CMMDC (cmmdc)
-- CMMMC (cmmmc)
-- Verifica daca 3 puncte din plan sunt coliniare (coliniare)
-- Verifica daca o data calendaristica este valida (data_valida, luna_nrzile, nume_luna_nrzile)
-- Probleme cu siruri de numere (elem_sir_)
-- Factorial (factorial)
-- Generarea numerelor dintr-un interval (gen_interv)
-- Maximul dintre 3 numere date ca parametri (max3)
-- Minimul in ordine lexicografica (min_termeni)
-- Determinarea numarului de cifre dintr-un numar (nr_cifre)
-- Verificarea parantezelor (parantezare_corecta)
-- Generarea permutarilor de 3 elemente (permutari_e)
-- Verifica daca un predicat reprezinta un numar natural (pred_natural)
-- Verifica daca un numar este numar prim (prim)
-- Stergerea spatiilor de la inceputul unui sire de caractere (sterg_el_incep)
-- Suma elementelor dintr-un interval (suma1x)
-- Verifica daca 3 puncte din plan formeaza un triunghi (triunghi)
+- Generarea abrevierilor dintr-o lista de cuvinte _(abreviere_atom)_
+- CMMDC _(cmmdc)_
+- CMMMC _(cmmmc)_
+- Verifica daca 3 puncte din plan sunt coliniare _(coliniare)_
+- Verifica daca o data calendaristica este valida _(data_valida, luna_nrzile, nume_luna_nrzile)_
+- Probleme cu siruri de numere _(elem_sir_)_
+- Factorial _(factorial)_
+- Generarea numerelor dintr-un interval _(gen_interv)_
+- Maximul dintre 3 numere date ca parametri _(max3)_
+- Minimul in ordine lexicografica _(min_termeni)_
+- Determinarea numarului de cifre dintr-un numar _(nr_cifre)_
+- Verificarea parantezelor _(parantezare_corecta)_
+- Generarea permutarilor de 3 elemente _(permutari_e)_
+- Verifica daca un predicat reprezinta un numar natural _(pred_natural)_
+- Verifica daca un numar este numar prim _(prim)_
+- Stergerea spatiilor de la inceputul unui sire de caractere _(sterg_el_incep)_
+- Suma elementelor dintr-un interval _(suma1x)_
+- Verifica daca 3 puncte din plan formeaza un triunghi _(triunghi)_
 
 
 
